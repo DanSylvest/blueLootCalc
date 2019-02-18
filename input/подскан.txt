@@ -1,0 +1,33 @@
+ANH-550	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	8,60 AU
+BEY-990	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	29,26 AU
+CEK-902	Cosmic Anomaly	Combat Site	Quarantine Area	100,0%	27,89 AU
+CGC-684	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	28,00 AU
+DBV-984	Cosmic Anomaly	Combat Site	Strange Energy Readings	100,0%	10,34 AU
+DGL-979	Cosmic Anomaly	Combat Site	Core Stronghold	100,0%	19,88 AU
+EXD-796	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	18,81 AU
+FLL-974	Cosmic Anomaly	Combat Site	Core Citadel	100,0%	2,61 AU
+FNP-570	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	10,60 AU
+GNZ-816	Cosmic Anomaly	Combat Site	Quarantine Area	100,0%	3,38 AU
+HPH-472	Cosmic Anomaly	Combat Site	Core Stronghold	100,0%	27,07 AU
+HSR-603	Cosmic Anomaly	Ore Site	Shattered Ice Field	100,0%	3,50 AU
+JJI-950	Cosmic Anomaly	Ore Site	Shattered Debris Field	100,0%	16,63 AU
+JKX-218	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	21,14 AU
+JYZ-745	Cosmic Anomaly	Combat Site	Core Stronghold	100,0%	16,77 AU
+JZW-216	Cosmic Anomaly	Combat Site	The Mirror	100,0%	20,75 AU
+PII-880	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	21,14 AU
+PPZ-874	Cosmic Anomaly	Combat Site	The Mirror	100,0%	10,82 AU
+PRR-177	Cosmic Anomaly	Combat Site	Core Stronghold	100,0%	29,39 AU
+PWA-803	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	2,10 AU
+TVB-675	Cosmic Anomaly	Combat Site	Core Stronghold	100,0%	21,22 AU
+TVG-405	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	3,68 AU
+UTE-530	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	21,22 AU
+VGR-980	Cosmic Anomaly	Ore Site	Exceptional Core Deposit	100,0%	14,68 AU
+VOQ-712	Cosmic Anomaly	Combat Site	The Mirror	100,0%	9,45 AU
+WFU-304	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	28,19 AU
+WOM-674	Cosmic Anomaly	Ore Site	Unexceptional Frontier Deposit	100,0%	28,88 AU
+WRE-744	Cosmic Anomaly	Combat Site	Core Stronghold	100,0%	15,18 AU
+XJW-180	Cosmic Anomaly	Ore Site	Ordinary Perimeter Deposit	100,0%	26,71 AU
+XLN-295	Cosmic Anomaly	Combat Site	Core Stronghold	100,0%	16,75 AU
+XMM-715	Cosmic Anomaly	Combat Site	Quarantine Area	100,0%	16,82 AU
+ZCI-959	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	18,30 AU
+ZFA-799	Cosmic Anomaly	Combat Site	Core Garrison	100,0%	18,07 AU
